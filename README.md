@@ -1,2 +1,2 @@
 # docker-rstudio
- STduio in a Docker Container
+ RStudio in a Docker Container
